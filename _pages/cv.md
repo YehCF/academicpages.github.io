@@ -12,7 +12,8 @@ redirect_from:
 [**_click here for pdf file_**](/cfyehprofile/files/CV_ChunFuYeh_main_20181028_v4.pdf)
 
 Education
----
+------
+
 * _M.S. in Occupational Therapy_, National Taiwan University, 2013-2015
   * Supervisor: Prof. Hao-Ling Chen
   * Research Focus: Computer Methods in Motion Analysis 
@@ -20,7 +21,8 @@ Education
   * Dean's List * 2
 
 Work & Research Experience
----
+------
+
 * **Project Investigator & Artificial Intelligence Researcher**, 04/2017-Present
   * _Dept. of Intelligent Medical & Healthcare System, Div. of Healthcare Service, Service Systems Technology Center, Industrial Technology Research Institute (ITRI)_
   * Projects:
@@ -79,7 +81,8 @@ Work & Research Experience
 
 
 Skills
----
+------
+
 * Python
 * Deep Learning / Machine Learning
   * Tensorflow & Pytorch framework
@@ -92,23 +95,19 @@ Skills
 
 
 Publications
-----
+------
+
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   * _More Publications are listed in CV pdf file_
-<!--   
-Coaching
-======
-  <ul>{% for post in site.coaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 
 Service and leadership
----
+------
+
 * Lead two research projects (total funding: ~1M USD)
 * Director General of United Eagle Welfare Committee, 01/2017-12/2017
   * Industrial Technology Research Institute (ITRI), Hsinchu, Taiwan
@@ -117,7 +116,8 @@ Service and leadership
 
 
 Training & Certificate
----
+------
+
 * **Immersive Silicon Valley Training (ISVT)**,  07/2018 - 09/2018
   * _San Francisco Bay Area, California, USA_
   * Designated by the director of Service Systems Technology Center, Industrial Technology Research Institute (ITRI)2
@@ -158,7 +158,8 @@ Training & Certificate
 
 
 Honors & Awards
----
+------
+
 * **Outstanding Youth Award**, 2014
   * Awarded by the director of college of medicine in National Taiwan University
   * Selected to be one of the 7 outstanding youths in college of medicine due to the achievements both in clinics and research.
