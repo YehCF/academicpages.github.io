@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [click for pdf](/_cv/CV_ChunFuYeh_main_20181028_v4)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
