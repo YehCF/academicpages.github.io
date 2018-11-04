@@ -36,7 +36,7 @@ Work & Research Experience
       * Build up a deep learning model to quantify the retinal nerve fiber layer (RNFL) defects in fundus image
       * 1 conference paper 
     2. **_The Development of Medical Devices for COPD Exacerbation Development Monitoring_**
-      * Period: 2017-2018
+      * Period: 04/2017-12/2018
       * Design an innovative service system to help patients with chronic obstructive pulmonary disease (COPD) detect acute exacerbation earlier by means of abnormal lung sound detection 
       * The model for lung sound detection (normal, wheeze, rhonchi and crackle) achieved 85.78% of accuracy, 5% higher than the accuracy reported in reference paper
       * 2 patents filed   
