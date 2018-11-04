@@ -11,30 +11,73 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* kevnieveinvienvienvneivnien
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* M.S. in Occupational Therapy, National Taiwan University, 2013-2015
+  * Supervisor: Prof. Hao-Ling Chen
+  * Research Focus: Computer Methods in Motion Analysis 
+* B.S. in Occupational Therapy, National Taiwan University, 2009-2013
+  * Dean's List * 2
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Work & Research Experience
+======
+* Project Investigator & Artificial Intelligence Researcher, 04/2017-Present
+  * @ Dept. of Intelligent Medical & Healthcare System, Div. of Healthcare Service, Service Systems Technology Center, Industrial Technology Research Institute (ITRI) 
+  * Projects:
+    1. AI-based Early-stage Glaucoma Detection with Fundus Images 
+      * Period: 01/2018-12/2018 
+      * Build up a deep learning model to quantify the retinal nerve fiber layer (RNFL) defects in fundus image
+      * 1 conference paper 
+    2. The Development of Medical Devices for COPD Exacerbation Development Monitoring 
+      * Period: 2017-2018
+      * Design an innovative service system to help patients with chronic obstructive pulmonary disease (COPD) detect acute exacerbation earlier by means of abnormal lung sound detection 
+      * The model for lung sound detection (normal, wheeze, rhonchi and crackle) achieved 85.78% of accuracy, 5% higher than the accuracy reported in reference paper
+      * 2 patents filed
+
+* Artificial Intelligence Researcher, 01/2017 - Present
+  * @ Dept. of Intelligent Medical & Healthcare System, Div. of Healthcare Service, Service Systems Technology Center, Industrial Technology Research Institute (ITRI)
+  * Projects:
+    1. Artificial Intelligence-based Diabetics Fundus Image Decision Support
+      * Design an innovative system to prevent patients with diabetes from severe diabetic retinopathy
+      * The kappa score between the model and the doctor was 84.15%, higher than that reported by Google and that of the 3th place of Diabetic Retinopathy Detection Challenge in Kaggle.
+      * Currently, we collaborate with more than 3 hospitals to collect fundus images and annotate each image with possible DR lesions (microaneurysm, exudate, hemorrhage, neovascularization, etc). The results will be published soon.
+
+* Project Researcher, 09/2015-12/2017
+  * @ Dept. of Intelligent Medical & Healthcare System, Div. of Healthcare Service, Service Systems Technology Center, Industrial Technology Research Institute (ITRI)
+  * Build up a performance analysis system with pressure-sensing mat to guide Tai Chi learners practice at home - 1 patent filed
+  * [1 Patent filed]([https://patents.justia.com/inventor/chun-fu-yeh])
+
+* Research Assistant, 09/2013-08/2015
+  * @ Movement Science and Assistive Technology Lab, School of Occupational Therapy, College of Medicine, National Taiwan University
+  * Projects:
+    1. Development and Application of Rehabilitation Games for Children with Cerebral Palsy Using Motion Sensing Technology
+      * Design a Kinect-based rehabilitation program using modern therapeutic approach 
+      * Collaboration with cross-disciplinary team, including occupational therapist, industrial designer and software engineer.
+    2. The Development of Brain-Computer Interface for Motor-Imagery Training
+      * Discover models (SVM / KNN) to quantify motor imagery ability with EEG signals 
+
+* Teaching Assistant, 09/2013-06/2015
+  * @ School of Occupational Therapy, College of Medicine, National Taiwan University
+  * Help graduate students learn programming in Matlab
+  * Coach international occupational therapist intern to do physical assessments on stroke patients
+  * Teach undergraduates to identify human anatomy from Cadaver
+
+* Occupational Therapy Intern, 07/2012-06/2013
+  * @ National Taiwan University Hospital (NTUH)
+  * Full-time internship in NTUH. Learn to be an independent occupational therapist in following 3 fields: pediatric, physical and psychological.
+  * Got certificate for being an occupational therapist in 09/2013
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Deep Learning / Machine Learning
+  * Tensorflow & Pytorch framework
+  * Scikit-learn for machine learning
+* HTML & CSS
+* SQL
+* C++
+* Design Thinking
+* User-Centered Design
+
 
 Publications
 ======
@@ -42,18 +85,30 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Coaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.coaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Lead two research projects (total funding: ~1M USD)
+* Director General of United Eagle Welfare Committee, 01/2017-12/2017
+  * Industrial Technology Research Institute (ITRI), Hsinchu, Taiwan
+  * Took charge of 300K USD budget to hold activities that can benefit employees
+
+Honors & Awards
+======
+* Outstanding Youth Award, 2014
+  * Awarded by the director of college of medicine in National Taiwan University
+  * Selected to be one of the 7 outstanding youths in college of medicine due to the achievements both in clinics and research.
+
+* Altruism Award
+  * Awarded by the director of college of medicine in National Taiwan University
+  * Stand out from 30 classmates in terms of the leadership and the contribution to making learning environment better in class.
+
+
+
+
