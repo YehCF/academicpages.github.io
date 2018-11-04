@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[click here for pdf file](/cfyehprofile/files/CV_ChunFuYeh_main_20181028_v4.pdf)
+[**_click here for pdf file_**](/cfyehprofile/files/CV_ChunFuYeh_main_20181028_v4.pdf)
 
 Education
 ======
@@ -128,12 +128,12 @@ TRAINING & CERTIFICATE
     1. Image Classification with Python and Tensorflow
     2. TV Scripts generation with Recurrent Neural Network
     3. Human Face Generation with Generative Adversarial Network
-  * [DLND Certificate _(click to view)_](/cfyehprofile/files/DDLND_Certificate.pdf)
+  * [DLND Certificate _(click to view)_](/cfyehprofile/files/DLND_Certificate.pdf)
 * **IDEO U Design Thinking Courses**,  06/2016 - 10/2016
   * _Online Course, IDEO_
   * Learn the mindset of design thinking and the methods to drive innovation
   * Courses: 
-    1. Insights for Innovation [Certificate _(click to view)_](/cfyehprofile/files/Kevin_Yeh_From_Ideas_to_Action.pdf)
+    1. Insights for Innovation [Certificate _(click to view)_](/cfyehprofile/files/Kevin_Yeh_Insights_for_Innovation.pdf)
     2. Storytelling for Influence [Certificate _(click to view)_](/cfyehprofile/files/Kevin_Yeh_Storytelling_for_Influence.pdf)
     3. From Ideas to Action [Certificate _(click to view)_](/cfyehprofile/files/Kevin_Yeh_From_Ideas_to_Action.pdf)
     4. Leading for Creativity [Certificate _(click to view)_](/cfyehprofile/files/Kevin_Yeh_Leading_for_Creativity.pdf)
