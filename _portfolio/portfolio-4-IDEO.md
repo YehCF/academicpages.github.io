@@ -4,3 +4,6 @@ excerpt: "What I've learned from IDEO<br/><img src='/cfyehprofile/images/IDEOU_r
 collection: portfolio
 ---
 
+
+To be continued ...
+---
