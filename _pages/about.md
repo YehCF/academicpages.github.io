@@ -10,7 +10,7 @@ redirect_from:
 
 Research Interests
 ------
-![My Research Interest, Background and Current Projects Overview](/cfyehprofile/images/ResearchInterest&Background.png)
+![My Research Interest, Background and Current Projects Overview](/cfyehprofile/images/ResearchInterest&Background-2.png)
 
 
 My research interests lie in the area of **Artificial Intelligence and Human-Computer Interaction**, especially in the fields of **medicine & healthcare**. Currently, I lead two project, developing deep learning-based models for early-detection systems for patients with Glaucoma and patients with Chronic Obstructive Pulmonary Disease (COPD). 
