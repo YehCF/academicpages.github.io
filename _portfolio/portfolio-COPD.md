@@ -1,9 +1,12 @@
 ---
 title: "The Development of Medical Devices for COPD Exacerbation Development Monitoring"
-excerpt: "The Development of Acute Exacerbation Monitoring for COPD patients at home<br/><img src='/cfyehprofile/images/COPD_CAM_W.png'>"
+excerpt: "The Development of Acute Exacerbation Monitoring for COPD patients at home<br/><img src='/cfyehprofile/images/COPD_CAM_W_r.png'>"
 collection: portfolio
 ---
  
+Keywords
+---
+- COPD, Acute Exacerbation, Abnormal Lung Sound Detection, CNN, RNN
 
 Insights
 ---
