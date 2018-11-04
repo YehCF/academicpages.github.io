@@ -48,8 +48,8 @@ Work & Research Experience
 
 * **Project Researcher**, 09/2015-12/2017
   * _Dept. of Intelligent Medical & Healthcare System, Div. of Healthcare Service, Service Systems Technology Center, Industrial Technology Research Institute (ITRI)_
-  * Build up a performance analysis system with pressure-sensing mat to guide Tai Chi learners practice at home - 1 patent filed
-  * 1 Patent filed
+  * Build up a performance analysis system with pressure-sensing mat to guide Tai Chi learners practice at home
+  * 1 Patent filed 
 
 * **Research Assistant**, 09/2013-08/2015
   * _Movement Science and Assistive Technology Lab, School of Occupational Therapy, College of Medicine, National Taiwan University_
