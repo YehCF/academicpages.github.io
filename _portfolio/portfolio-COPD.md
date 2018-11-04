@@ -34,7 +34,7 @@ Results
 	* Training Data: ~6.5k, Testing Data: ~1.3k
 	* Current Model Performance: Overall, 4-class classification **_accuracy is 87.13%_**. **Precisions for four classes are all above 80%. Recalls for Normal and Wheeze are above 85%. Recalls for Rhonchi and Crackle are near 80%.**
 	* The visuals for our model
-	![From Audio Clips to Class Activation Maps output from Model](/cfyehprofile/images/COPD_service_problem.png)
+	![From Audio Clips to Class Activation Maps output from Model](/cfyehprofile/images/COPD_AudioToCAMs.png)
 
 - Eary Detection of Acute Exacerbation:
 	* With respiratory pattern features, SpO2 and class probabilities output from abnormal lung sound detection model, we trained a decision tree classifier and **got 80% accuracy on test data**.
