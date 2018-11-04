@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence-based Early-stage Glaucoma Detection with Fundus Images"
-excerpt: "An deep-learning based early-detection method for Glaucoma patients<br/><img src='/cfyehprofile/images/Glaucoma_Brief_v.png'>"
+excerpt: "A deep-learning based early-detection method for Glaucoma patients<br/><img src='/cfyehprofile/images/Glaucoma_Brief_v.png'>"
 collection: portfolio
 ---
 
