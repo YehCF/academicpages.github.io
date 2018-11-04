@@ -27,7 +27,6 @@ Education
 Work & Research Experience
 ======   
 
-<br>
 * **Project Investigator & Artificial Intelligence Researcher**, 04/2017-Present
   * _Dept. of Intelligent Medical & Healthcare System, Div. of Healthcare Service, Service Systems Technology Center, Industrial Technology Research Institute (ITRI)_
   * Projects:
@@ -78,10 +77,10 @@ Work & Research Experience
   * Full-time internship in NTUH. Learn to be an independent occupational therapist in following 3 fields: pediatric, physical and psychological.
   * Got certificate for being an occupational therapist in 09/2013  
 
-<br>
+<br>  
+
 Skills
-======  
-<br>
+======
 * Python
 * Deep Learning / Machine Learning
   * Tensorflow & Pytorch framework
@@ -92,30 +91,31 @@ Skills
 * Design Thinking
 * User-Centered Design  
   
-<br>
+<br>  
+
 Publications
 ======  
-<br>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 <br>
   * _More Publications are listed in CV pdf file_
   
-<br>
+<br>  
+
 Service and leadership
 ======  
-<br>
 * Lead two research projects (total funding: ~1M USD)  
 
 * Director General of United Eagle Welfare Committee, 01/2017-12/2017
   * Industrial Technology Research Institute (ITRI), Hsinchu, Taiwan
   * Took charge of 300K USD budget to hold activities that can benefit employees  
 
-<br>
+<br> 
+
 Training & Certificate
 ======  
-<br>
+
 * **Immersive Silicon Valley Training (ISVT)**,  07/2018 - 09/2018
   * _San Francisco Bay Area, California, USA_
   * Designated by the director of Service Systems Technology Center, Industrial Technology Research Institute (ITRI)2
@@ -151,10 +151,11 @@ Training & Certificate
     4. Leading for Creativity [Certificate _(click to view)_](/cfyehprofile/files/Kevin_Yeh_Leading_for_Creativity.pdf)
   * **Selected to be an alumni coach after taking all these four courses.**  
 
-<br>
+<br> 
+
 Honors & Awards
 =======  
-<br>
+
 * **Outstanding Youth Award**, 2014
   * Awarded by the director of college of medicine in National Taiwan University
   * Selected to be one of the 7 outstanding youths in college of medicine due to the achievements both in clinics and research.  
