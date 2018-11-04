@@ -1,7 +1,6 @@
 ---
 title: "Artificial Intelligence-based Early-stage Glaucoma Detection with Fundus Imagess"
-excerpt: "The development of an early-detection method for potential patients with Glaucoma with fundus images"
-<br/><img src='/cfyehprofile/images/Glaucoma_Brief_v.png'>"
+excerpt: "The development of an early-detection method for potential patients with Glaucoma with fundus images"<br/><img src='/cfyehprofile/images/Glaucoma_Brief_v.png'>"
 collection: portfolio
 ---
 
@@ -39,8 +38,6 @@ Stage 1
 
 Stage 2
 - The experiment for using Visual Fields / OCT as the annotations for fundus images is onging. We're using CNN-based Autoencoder and VAE-GAN to build up a model to transform fundus images into probability map of retinal nerve fiber layer defect. The results would be published in the beginning of next year.
-
-
 
 
 ## For more information, please contact with me via email
