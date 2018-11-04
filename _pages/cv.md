@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV.pdf link](/_cv/CV_ChunFuYeh_main_20181028_v4)
+
 Education
 ======
 * _M.S. in Occupational Therapy_, National Taiwan University, 2013-2015
@@ -118,7 +120,7 @@ TRAINING & CERTIFICATE
     2. Facial Keypoints Detection with Convolution Neural Network
     3. Machine Translation (French vs. English) with Recurrent Neural Network
     4. End-to-end Speech Recognizer with Recurrent Neural Network  
-  * [AIND Certificate](/_certificate/AIND_Certificate.pdf)
+  * [AIND Certificate _(click to view)_](/_certificates/AIND_Certificate.pdf)
 * **Deep Learning Nanodegree Foundation**, 01/2017 - 05/2017
   * _Online Course, Udacity_
   * Learn the fundamentals of deep learning, including convolution neural network, recurrent neural network, generative adversarial network.
@@ -126,11 +128,15 @@ TRAINING & CERTIFICATE
     1. Image Classification with Python and Tensorflow
     2. TV Scripts generation with Recurrent Neural Network
     3. Human Face Generation with Generative Adversarial Network
-  * [DLND Certificate](/_certificate/DLND_Certificate.pdf)
+  * [DLND Certificate _(click to view)_](/_certificates/DLND_Certificate.pdf)
 * **IDEO U Design Thinking Courses**,  06/2016 - 10/2016
   * _Online Course, IDEO_
   * Learn the mindset of design thinking and the methods to drive innovation
-  * Courses: Insights for Innovation, Storytelling for Influence, From Ideas to Action and Leading for Creativity
+  * Courses: 
+    1. Insights for Innovation [Certificate _(click to view)_](/_certificates/Kevin_Yeh_Insights_for_Innovation.pdf)
+    2. Storytelling for Influence [Certificate _(click to view)_](/_certificates/Kevin_Yeh_Storytelling_for_Influence.pdf)
+    3. From Ideas to Action [Certificate _(click to view)_](/_certificates/Kevin_Yeh_From_Ideas_to_Action.pdf)
+    4. Leading for Creativity [Certificate _(click to view)_](/_certificates/Kevin_Yeh_Leading_for_Creativity.pdf)
   * **Selected to be an alumni coach after taking all these four courses.**
 
 
