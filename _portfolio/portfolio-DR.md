@@ -4,7 +4,6 @@ excerpt: "The Development of CNN models for Primary Doctors to refer patients wi
 collection: portfolio
 ---
   
-<br>
 
 Insights
 ---
@@ -28,7 +27,7 @@ Stage 2
 Results
 ---
 Stage 1
-- Just 1 Model: Quadratic Kappa - 84.15% (Rank 3th, in comparion with results in Kaggle Competition)
+- Just 1 Model: Quadratic Kappa - **_84.15% (Rank 3th, in comparion with results in Kaggle Competition)_**
 - Here are the visuals of our model
 	- Class Activation Map for Moderate DR (level: 2) 
 	<img src='/cfyehprofile/images/DR_L2.gif'>
