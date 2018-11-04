@@ -20,7 +20,7 @@ Education
 Work & Research Experience
 ======
 * **Project Investigator & Artificial Intelligence Researcher**, 04/2017-Present
-  *@ Dept. of Intelligent Medical & Healthcare System, Div. of Healthcare Service, Service Systems Technology Center, Industrial Technology Research Institute (ITRI) 
+  * _Dept. of Intelligent Medical & Healthcare System, Div. of Healthcare Service, Service Systems Technology Center, Industrial Technology Research Institute (ITRI)_
   * Projects:
     1. **_AI-based Early-stage Glaucoma Detection with Fundus Images_**
       * Period: 01/2018-12/2018 
@@ -32,14 +32,14 @@ Work & Research Experience
       * The model for lung sound detection (normal, wheeze, rhonchi and crackle) achieved 85.78% of accuracy, 5% higher than the accuracy reported in reference paper
       * 2 patents filed
 * **Artificial Intelligence Researcher**, 01/2017 - Present
-  * @ Dept. of Intelligent Medical & Healthcare System, Div. of Healthcare Service, Service Systems Technology Center, Industrial Technology Research Institute (ITRI)
+  * _Dept. of Intelligent Medical & Healthcare System, Div. of Healthcare Service, Service Systems Technology Center, Industrial Technology Research Institute (ITRI)_
   * Projects:
     1. **_Artificial Intelligence-based Diabetics Fundus Image Decision Support_**
       * Design an innovative system to prevent patients with diabetes from severe diabetic retinopathy
       * The kappa score between the model and the doctor was 84.15%, higher than that reported by Google and that of the 3th place of Diabetic Retinopathy Detection Challenge in Kaggle.
       * Currently, we collaborate with more than 3 hospitals to collect fundus images and annotate each image with possible DR lesions (microaneurysm, exudate, hemorrhage, neovascularization, etc). The results will be published soon.
 * **Project Researcher**, 09/2015-12/2017
-  * @ Dept. of Intelligent Medical & Healthcare System, Div. of Healthcare Service, Service Systems Technology Center, Industrial Technology Research Institute (ITRI)
+  * _Dept. of Intelligent Medical & Healthcare System, Div. of Healthcare Service, Service Systems Technology Center, Industrial Technology Research Institute (ITRI)_
   * Build up a performance analysis system with pressure-sensing mat to guide Tai Chi learners practice at home - 1 patent filed
   * [1 Patent filed]([https://patents.justia.com/inventor/chun-fu-yeh])
 * **Research Assistant**, 09/2013-08/2015
@@ -51,12 +51,12 @@ Work & Research Experience
     2. **_The Development of Brain-Computer Interface for Motor-Imagery Training_**
       * Discover models (SVM / KNN) to quantify motor imagery ability with EEG signals 
 * **Teaching Assistant**, 09/2013-06/2015
-  * @ School of Occupational Therapy, College of Medicine, National Taiwan University
+  * _School of Occupational Therapy, College of Medicine, National Taiwan University_
   * Help graduate students learn programming in Matlab
   * Coach international occupational therapist intern to do physical assessments on stroke patients
   * Teach undergraduates to identify human anatomy from Cadaver
 * **Occupational Therapy Intern**, 07/2012-06/2013
-  * @ National Taiwan University Hospital (NTUH)
+  * _National Taiwan University Hospital (NTUH)_
   * Full-time internship in NTUH. Learn to be an independent occupational therapist in following 3 fields: pediatric, physical and psychological.
   * Got certificate for being an occupational therapist in 09/2013
 
