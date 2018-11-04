@@ -92,11 +92,11 @@ Publications
   {% endfor %}</ul>
   
   
-Coaching
+<!-- Coaching
 ======
   <ul>{% for post in site.coaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
