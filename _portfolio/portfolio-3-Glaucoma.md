@@ -19,7 +19,7 @@ Stage 1
 - Data Source: Small Public Dataset (15 fundus images from healthy patients; 15 fundus images from patients with Glaucoma)
 - Data Annotations: 0 (Healthy), 1 (Glaucoma)
 - Deep Learning Framework: Tensorflow (tf-slim)
-- Models: <br/>
+- Models: 
 ![CNN model for Glaucoma](/cfyehprofile/images/glaucoma_model.png)
 
 Stage 2
@@ -34,7 +34,7 @@ Stage 1
 - Here are the visuals of our model
 	- Class Activation Map for Glaucoma  
 	- From the ophthalmologist's feedback, the activated regions were close to the retinal nerve fiber layer defects that they saw from the original fundus images.
-	<br><img src='/cfyehprofile/images/Glaucoma_CVGIP_v.png'>
+	<img src='/cfyehprofile/images/Glaucoma_CVGIP_v.png'>
 
 Stage 2
 - The experiment for using Visual Fields / OCT as the annotations for fundus images is onging. We're using CNN-based Autoencoder and VAE-GAN to build up a model to transform fundus images into probability map of retinal nerve fiber layer defect. The results would be published in the beginning of next year.
