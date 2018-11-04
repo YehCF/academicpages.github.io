@@ -118,7 +118,7 @@ Training & Certificate
 
 * **Immersive Silicon Valley Training (ISVT)**,  07/2018 - 09/2018
   * _San Francisco Bay Area, California, USA_
-  * Designated by the director of Service Systems Technology Center, Industrial Technology Research Institute (ITRI)2
+  * Designated by the director of Service Systems Technology Center, Industrial Technology Research Institute (ITRI)
   * 2.5-month business trip in silicon valley. Look for potential business & research partners and also promote AI products developed in ITRI
   * Successfully build up a long-term relationship with DirectDerm, a startup for telemedicine in dermatology.   
 <br>
