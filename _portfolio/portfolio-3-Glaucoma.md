@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence-based Early-stage Glaucoma Detection with Fundus Imagess"
+title: "Artificial Intelligence-based Early-stage Glaucoma Detection with Fundus Images"
 excerpt: "The development of an early-detection method for potential patients with Glaucoma with fundus images"<br/><img src='/cfyehprofile/images/Glaucoma_Brief_v.png'>"
 collection: portfolio
 ---
