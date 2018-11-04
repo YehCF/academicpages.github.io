@@ -1,6 +1,6 @@
 ---
-title: "Artificial Intelligence-based Diabetics Fundus Image Decision Support"
-excerpt: "The Development of CNN models for Primary Doctors to refer patients with DR to ophthalmologists<br/><img src='/cfyehprofile/images/DR_L2.gif'>"
+title: "IDEO U Alumni Coach Fellow"
+excerpt: "What I've learned from IDEO<br/><img src='/cfyehprofile/images/IDEOU_r.png'>"
 collection: portfolio
 ---
 
