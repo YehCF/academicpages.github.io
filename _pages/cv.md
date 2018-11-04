@@ -140,7 +140,7 @@ Honors & Awards
   * Awarded by the director of college of medicine in National Taiwan University
   * Selected to be one of the 7 outstanding youths in college of medicine due to the achievements both in clinics and research.
 
-* **Altruism Award**
+* **Altruism Award**, 2012
   * Awarded by the director of college of medicine in National Taiwan University
   * Stand out from 30 classmates in terms of the leadership and the contribution to making learning environment better in class.
 
