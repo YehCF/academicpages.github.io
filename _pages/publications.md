@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+[More publications are listed in CV (click here for pdf file)](/cfyehprofile/files/CV_ChunFuYeh_main_20181028_v4.pdf)
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
