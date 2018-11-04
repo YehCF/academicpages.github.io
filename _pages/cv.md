@@ -112,6 +112,7 @@ TRAINING & CERTIFICATE
   * Designated by the director of Service Systems Technology Center, Industrial Technology Research Institute (ITRI)2
   * 2.5-month business trip in silicon valley. Look for potential business & research partners and also promote AI products developed in ITRI
   * Successfully build up a long-term relationship with DirectDerm, a startup for telemedicine in dermatology. 
+
 * **Artificial Intelligence Nanodegree and Specializations**,  05/2017 - 02/2018
   * _Online Course, Udacity_
   * Learn to build up deep learning applications with python, tensorflow and keras
@@ -121,6 +122,7 @@ TRAINING & CERTIFICATE
     3. Machine Translation (French vs. English) with Recurrent Neural Network
     4. End-to-end Speech Recognizer with Recurrent Neural Network  
   * [AIND Certificate _(click to view)_](/cfyehprofile/files/AIND_Certificate.pdf)
+
 * **Deep Learning Nanodegree Foundation**, 01/2017 - 05/2017
   * _Online Course, Udacity_
   * Learn the fundamentals of deep learning, including convolution neural network, recurrent neural network, generative adversarial network.
@@ -129,6 +131,7 @@ TRAINING & CERTIFICATE
     2. TV Scripts generation with Recurrent Neural Network
     3. Human Face Generation with Generative Adversarial Network
   * [DLND Certificate _(click to view)_](/cfyehprofile/files/DLND_Certificate.pdf)
+  
 * **IDEO U Design Thinking Courses**,  06/2016 - 10/2016
   * _Online Course, IDEO_
   * Learn the mindset of design thinking and the methods to drive innovation
