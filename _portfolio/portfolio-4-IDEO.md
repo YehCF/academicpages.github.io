@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 <br/><img src='/cfyehprofile/images/IDEOU_r.png'>
+<br>
 This was the picture taken when I visited IDEO's office in San Francisco with Olivia (left) and Em (right). Thank both of them for inviting me and the great office tour there.
 
 
