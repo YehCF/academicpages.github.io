@@ -9,7 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-[**_click here for pdf file_**](/cfyehprofile/files/ChunFu-CV-20190423.pdf)
+[**_click here for pdf file_**](/cfyehprofile/files/ChunFu-CV-20190825.pdf)
+
+<br>
+
+Professional Profile
+======
+* Lead 2 projects as principal investigator, targeting the development of transformative technology for medical and healthcare service
+* Raised $1M (USD) in funding with 2 research proposals within 2 years
+* Manage 3 research projects as an AI engineer lead for the development of deep learning / machine learning
+models for medical and healthcare services
+* Selected to be one of 30 alumni coaches as part of the inaugural IDEO U Alumni Fellowship program to
+   engage and guide IDEO U online learners
+
 
 <br>
 
@@ -28,7 +40,19 @@ Education
 Work & Research Experience
 ======   
 
-* **Project Investigator & Artificial Intelligence Researcher**, 04/2017-Present
+* **Artificial Intelligence Engineer**, 06-2019-Present
+  * _Taiwan AI Labs, Taipei, Taiwan_
+  * Projects: 
+    1. Pretrained Backbones for Medical Images
+      * Developed CNN-based pretrained backbones for all kinds of CT and MRI images.
+      * This aims to boost up the overall performance for semantic segmentation on at least 10 datasets,
+including Brain, Heart, Liver, Hippocampus, Prostate, Lung, Hepatic Vessel, Pancreas, Spleen, Colon.
+    2. General Medical Image Dataset Framework for Deep Learning Modeling Pipeline
+      * Designed a general module to deal with all kinds of CT and MRI images.
+      * This enabled AI engineers to process medical images efficiently, which saved nearly 80% of the time.
+
+
+* **Project Investigator & Artificial Intelligence Researcher**, 04/2017-06/2019
   * _Service Systems Technology Center (SSTC), Industrial Technology Research Institute (ITRI), Hsinchu, Taiwan_
   * Projects:
     1. **_AI-based Early-stage Glaucoma Detection with Fundus Images_**
@@ -44,7 +68,7 @@ to the baseline model (only encoder-decoder CNN)
 reported in reference paper
       * filed 2 patents
 <br>
-* **Artificial Intelligence Researcher**, 09/2015 - Present
+* **Artificial Intelligence Engineer**, 09/2015 - Present
   * _Service Systems Technology Center (SSTC), Industrial Technology Research Institute (ITRI), Hsinchu, Taiwan_
   * Projects:
     1. **_Eye Alpha Zero – The Development of Incremental Learning for AI in Ophthalmology_**
@@ -86,7 +110,7 @@ Skills
   * use OpenCV and PIL for image preprocessing 
   * use LibROSA for audio preprocessing, STFT, MFCC and spectrogram generation
 * **Deep Learning / Machine Learning**
-  * Skill at modeling with Pytorch and Tensorflow 
+  * Skill at modeling with Pytorch and Tensorflow
   * Scikit-learn for machine learning models
 * **C++ / HTML / CSS / SQL**
 * **Design Thinking / User-Centered Design**
