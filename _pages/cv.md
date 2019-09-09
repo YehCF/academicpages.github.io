@@ -130,7 +130,6 @@ Publications
 Service and leadership
 ======  
 * Lead two research projects (total funding: ~1M USD)  
-
 * Director General of United Eagle Welfare Committee, 01/2017-12/2017
   * Industrial Technology Research Institute (ITRI), Hsinchu, Taiwan
   * Took charge of 300K USD budget to hold activities that can benefit employees  
@@ -160,6 +159,7 @@ Training & Certificate
     3. Machine Translation (French vs. English) with Recurrent Neural Network
     4. End-to-end Speech Recognizer with Recurrent Neural Network  
   * [AIND Certificate _(click to view)_](/cfyehprofile/files/AIND_Certificate.pdf)  
+  
 <br>
 * **Deep Learning Nanodegree Foundation**, 01/2017 - 05/2017
   * _Online Course, Udacity_
